@@ -1,0 +1,1 @@
+Code for analysis published in: Ayoubkhani D, Zaccardi F, Pouwels KB, et al. Employment outcomes of people with Long Covid symptoms: community-based cohort study. Eur J Public Health 2024;34:489-496. doi: 10.1093/eurpub/ckae034
